@@ -1,13 +1,13 @@
 <h1 align="center">kabir mago</h1>
 
 <p align="center">nyc</p>
-AI writes most of my code and I barely know how to code. 
-I build things sometimes, mostly web based. 
-I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code.
- 
 
+<p align="center">
+  AI writes most of my code and I barely know how to code.<br/>
+  I build things sometimes, mostly web based.<br/><br/>
+  I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code.
+</p>
 
-**Best Work probably
-:** [Logos](https://github.com/kabirmago/Logos)
+<p align="center"><b>Best Work probably:</b> <a href="https://github.com/kabirmago/Logos">Logos</a></p>
 
-![snake](https://raw.githubusercontent.com/kabirmago/kabirmago/output/snake.svg)
+<p align="center"><img src="https://raw.githubusercontent.com/kabirmago/kabirmago/output/snake.svg" alt="snake"/></p>
