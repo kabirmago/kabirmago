@@ -2,7 +2,7 @@
 
 <p align="center">nyc · class of 2029</p>
 
-I build things, mostly web and AI. I also argue about stuff, play soccer, and go out more than I should.
+I build things sometimes, mostly web and AI. 
 
 **Stack:** TypeScript, Python, Swift, Next.js
 
