@@ -3,6 +3,7 @@
 <p align="center">nyc</p>
 AI writes most of my code and I barely know how to code. 
 I build things sometimes, mostly web based. 
+I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code. I love claude code.
  
 
 
