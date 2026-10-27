@@ -6,6 +6,7 @@ I build things sometimes, mostly web and AI.
 
 **Stack:** TypeScript, Python, Swift, Next.js
 
-**Best Work:** [Logos](https://github.com/kabirmago/Logos)
+**Best Work probably
+:** [Logos](https://github.com/kabirmago/Logos)
 
 ![snake](https://raw.githubusercontent.com/kabirmago/kabirmago/output/snake.svg)
