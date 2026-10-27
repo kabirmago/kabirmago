@@ -4,6 +4,8 @@
 
 I build things sometimes, mostly web and AI. 
 
+Fun fact: AI writes most of my code and I barely know how to code. It ships anyway.
+
 **Stack:** TypeScript, Python, Swift, Next.js
 
 **Best Work probably
